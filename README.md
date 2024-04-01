@@ -13,8 +13,7 @@
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/SheikhArbab/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<p align="center"> 
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -24,21 +23,13 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SheikhArbab/SheikhArbab/main/images/banner.svg"  width="600">
-
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SheikhArbab/SheikhArbab/main/images/terminal.gif" width="400" height="400">
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners --> 
 
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/SheikhArbab/SheikhArbab/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SheikhArbab/SheikhArbab/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<!--📰RSS / TAKE IMAGE FROM https://github.com/SheikhArbab/SheikhArbab/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT--> 
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -83,10 +74,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US and Pakistan❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/SheikhArbab/SheikhArbab/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SheikhArbab/SheikhArbab/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+ 
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -103,9 +91,7 @@
 <!--<p align="center"> -->
 <!--<a href="https://SheikhArbab.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SheikhArbab/github-stats-terminal-style/master/github_stats.svg">
+<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer --> 
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -129,10 +115,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SheikhArbab&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
-
-<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-<a href="https://stackoverflow.com/users/14602915/SheikhArbab?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
+ 
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
